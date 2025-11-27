@@ -34,7 +34,7 @@ const adapter: SimpleAdapter = {
   version: 2,
   chains: [CHAIN.MORPH],
   fetch,
-  start: "2024-10-21",
+  start: "2024-10-29",
   protocolType: ProtocolType.CHAIN,
   methodology: {
     Fees: "Transaction fees paid by users",
